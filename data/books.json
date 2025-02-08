@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Bossypants",
+        "author": "Tina Fey",
+        "date": "2011-04-05",
+        "publisher": "Little, Brown and Company"
+    },
+    {
+        "id": 2,
+        "name": "Is Everyone Hanging Out Without Me?",
+        "author": "Mindy Kaling",
+        "date": "2011-11-01",
+        "publisher": "Crown Archetype"
+    },
+    {
+        "id": 3,
+        "name": "Yes Please",
+        "author": "Amy Poehler",
+        "date": "2014-10-28",
+        "publisher": "Dey Street Books"
+    }
+]
